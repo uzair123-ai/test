@@ -1,0 +1,17 @@
+.row{
+    margin-top: 20px;
+    padding: 20px;
+    height: 125vh;
+    background: #141414;
+    width: 100%;
+    padding-left: 35px;
+    display: flex;
+}
+.card{
+    margin: 100px auto 0;
+    display: inline;
+    width: 400px;
+    height: 600px;
+    perspective: 700px;
+    align-items: center;
+}
